@@ -1,3 +1,4 @@
+/* Gabriel Munhoz Bonni SC3005429 */
 import { Component } from '@angular/core';
 
 @Component({

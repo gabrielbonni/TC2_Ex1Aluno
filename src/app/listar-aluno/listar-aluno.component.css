@@ -1,0 +1,9 @@
+/* Gabriel Munhoz Bonni SC3005429 */
+table, th, td {
+    border: 1px solid black;
+}
+
+.titleRow {
+    font-weight: bold;
+    text-align: center;
+}
